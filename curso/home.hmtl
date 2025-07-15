@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Página Inicial</title>
+</head>
+<body>
+    <h1>Curso de HTML</h1>
+    <p>Este é um curso de HTML feito em HTML. Bons estudos!</p>
+
+    <p><a href="sumario.html">Ir para: Sumário</a></p>
+</body>
+</html>
